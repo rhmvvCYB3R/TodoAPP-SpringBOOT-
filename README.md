@@ -1,5 +1,6 @@
 # TodoAPP-SpringBOOT-
-
+This project is for learning purposes, and additionally, it will serve as my template project. 
+I will leave comments on things I don’t fully understand yet, for example, some annotations, so I can later understand what they are used for
 #          Structure
 - **controller** — REST API endpoints  
 - **service** — business logic  
